@@ -1,6 +1,4 @@
-# HackTheChange23-backend
-
-# Node.js Calendar API Integration
+# HackTheChange23-backend -  Node.js Calendar API Integration
 
 ## Description
 
